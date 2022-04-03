@@ -1,4 +1,4 @@
-{    -- mister
+return {    -- mister
     [1] = "bbae6fc55b16f220baafd06eb146c56960eb34e3ca3f94b6f96b2e2dd618cbe343e911710f81c416b9fa66a568811db4e83a6d11c72f9e34354e5a0d9d5112cf",
     -- lxvl
     [2] = "3a2034fe4a7ed7597c0257441c4dd97aa987ffb8a9e74bc2d84bdb7d3aa7f58cc140f26b863f9f744e8215f42d05feb04ea1bc7f8ccae9f58838b1d2de8c87e5",
