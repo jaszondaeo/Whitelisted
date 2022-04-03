@@ -1,4 +1,6 @@
-{
+return function()
+    
+    return {
     -- mister
     [1] = "6382d6e79cefef180a4f1c8d9cf876ae4fa5f1efce937c3ad9ba88fce4d2f30e5d7d5b99986627f466d6aa4734ccccda4dfceb2b03ad9a7f730ed7d2d18790dd",
     -- lxvl
@@ -25,4 +27,6 @@
     -- myself lol
     [15] = "f9336a9e94796070b8cdb32f846e2b834236595023a5e8b851e09dab50a0e4b327582234970438bfddf7e97df424d11930d226b1f0c38ea369e5ea707c617fcc",
     [16] = "76cc45a0b1f13d75c22820b40a4ed3a9a3835d3c548f075e4eb8ea15d44d38af9970e4e7d1cdcb06e5b05c0080bbd48dd19430abf07f4e9227ecc6bbf6878137"
-}
+    }
+    
+end
