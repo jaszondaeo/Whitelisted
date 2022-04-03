@@ -1,4 +1,5 @@
-{
+return function()
+    return {
     -- mister
     [1] = "bbae6fc55b16f220baafd06eb146c56960eb34e3ca3f94b6f96b2e2dd618cbe343e911710f81c416b9fa66a568811db4e83a6d11c72f9e34354e5a0d9d5112cf",
     -- lxvl
@@ -18,3 +19,4 @@
     [14] = "aa31261c4ab1df43fd873d7459f5183785a9eb4e9aaacd5d5483ec650741143effdccfd0ddb8b3cc95ba4dee53539a3b3f68d1a051c2e21cc2d84566e36aedcb",
     [15] = "ac7b3d818d05df3a5cb1ac6df1a5a89a1763a5ba92d63790484f435d103c36d3a3fea6bc38e6ed01c51a140fae690df9592566cf6ba15e209be85cc1f8f253b8"
 }
+end
